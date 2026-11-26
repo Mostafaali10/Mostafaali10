@@ -1,12 +1,13 @@
-# Hi, I'm Mostafa Ali
+# Mostafa Ali
 
-AI engineer in training and senior Information Technology student at Beni Suef University (Faculty of Computers & Artificial Intelligence, graduating 2027), based in Cairo, Egypt. I build LLM applications, RAG pipelines and computer vision systems.
+**AI Engineer** building retrieval-augmented generation systems and computer vision pipelines, from data preparation and evaluation to deployable apps.
 
-## What I work on
+## What I build
 
-- **LLM apps and RAG:** retrieval, evaluation, grounded answers with citations
-- **Computer vision:** object detection, tracking and image classification
-- **Applied ML:** multi-task neural networks, data pipelines, reusable ML tooling
+- **RAG systems:** document question answering with cited, grounded answers, benchmarked with retrieval metrics (precision@K, hit rate, MRR) and chunking experiments
+- **Computer vision:** object detection, multi-object tracking and image classification with YOLOv8, ByteTrack, OpenCV and ResNet50
+- **ML engineering:** leakage-resistant data splits, model comparison and hyperparameter search, multi-task neural networks
+- **Shipping:** FastAPI services, Docker, and Streamlit or Flask apps around the models
 
 ## Tech stack
 
