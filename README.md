@@ -35,7 +35,7 @@
 |---|---|
 | [PPE Detection and Compliance](https://github.com/Mostafaali10/PPE-Detection-System-Using-YOLO) | Real-time PPE detection, multi-worker tracking and compliance monitoring. YOLOv8, ByteTrack, OpenCV, Streamlit dashboard. |
 | [RoadVision AI](https://github.com/Mostafaali10/Road-Damage-Object-Detection) | Detects 7 types of road damage from images and dashcam footage. Benchmarks YOLOv8n, s and m, with a Streamlit inspection app. |
-| [OralVision AI](https://github.com/Mostafaali10/Oral-Diseases-Image-Classification) | Six-class oral condition classifier (fine-tuned ResNet50) with a leakage-resistant split. 90.81% test accuracy, 0.8467 macro F1. Flask app. |
+| [OralVision AI](https://github.com/Mostafaali10/Oral-Diseases-Image-Classification) | Six-class oral condition classifier (fine-tuned ResNet50). 97.81% test accuracy, 0.937 macro F1. Flask app. |
 
 ### Applied ML
 
